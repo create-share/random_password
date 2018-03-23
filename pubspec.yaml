@@ -1,0 +1,4 @@
+name: random_password
+version: 1.0.0+1
+author: Li Zhaoming <lizhaoming.china@outlook.com>
+description: Randomly generate a safe password.
